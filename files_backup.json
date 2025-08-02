@@ -1,0 +1,38 @@
+[
+ {
+  "file_name": "files_backup.json",
+  "file_path": "/home/yanis/go/fileserv/files_backup.json",
+  "mod_time": "2025-08-02T09:02:16.84835424+01:00",
+  "file_size": 927
+ },
+ {
+  "file_name": "go.mod",
+  "file_path": "/home/yanis/go/fileserv/go.mod",
+  "mod_time": "2025-07-22T22:23:58.829144984+01:00",
+  "file_size": 27
+ },
+ {
+  "file_name": "handlers",
+  "file_path": "/home/yanis/go/fileserv/handlers",
+  "mod_time": "2025-08-02T09:04:17.147537945+01:00",
+  "file_size": 4096
+ },
+ {
+  "file_name": "indexer",
+  "file_path": "/home/yanis/go/fileserv/indexer",
+  "mod_time": "2025-08-01T20:46:41.511408+01:00",
+  "file_size": 4096
+ },
+ {
+  "file_name": "main.go",
+  "file_path": "/home/yanis/go/fileserv/main.go",
+  "mod_time": "2025-08-02T01:27:27.433369916+01:00",
+  "file_size": 1500
+ },
+ {
+  "file_name": "watcher",
+  "file_path": "/home/yanis/go/fileserv/watcher",
+  "mod_time": "2025-08-02T01:33:17.548635791+01:00",
+  "file_size": 4096
+ }
+]
